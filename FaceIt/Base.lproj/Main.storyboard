@@ -70,6 +70,9 @@
                             <constraint firstItem="9OY-GA-vCe" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" id="YCW-Va-uiN"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="faceView" destination="mTm-oU-crR" id="E4m-6E-CIK"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
